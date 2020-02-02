@@ -1,0 +1,11 @@
+opencv-contrib-python
+numpy
+cv2
+imutils
+pywin32
+image
+django
+os
+six
+tarfile
+random
